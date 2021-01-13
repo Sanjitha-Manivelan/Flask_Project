@@ -1,6 +1,5 @@
 import os
 from PIL import Image
-
 from flask import url_for, current_app
 
 def add_profile_pic(pic_upload,username):
